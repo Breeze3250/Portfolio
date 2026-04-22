@@ -24,6 +24,8 @@ export const EXPERIENCE = [
       "Led integration of the driver into existing company software, authoring encapsulated C++ controller classes and new API calls to allow the calibration algorithm to modify projector currents.",
       "Implemented a numerical algorithm using OpenCV and linear algebra to calculate optimal laser currents from power meter readings.",
       "Built the complete user interface for the calibration stage and driver controls using QML.",
+      "Engineered data-filtering logic in an Apache Flink streaming pipeline using Java, routing events from MongoDB to PostgreSQL to resolve critical data contamination.", 
+      "Authored Flyway SQL migrations to simulate and debug distributed ETL database environments",
     ],
   },
   {
