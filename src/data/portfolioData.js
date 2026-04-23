@@ -11,6 +11,8 @@ export const EXPERIENCE = [
       "Architected secure cross-service communication by integrating Python backend routes with internal gRPC microservices, defining data contracts using Protobufs.",
       "Implemented secure OIDC authentication flows via AWS Cognito, managing encrypted HTTP-only session cookies and engineering gRPC interceptors for automated token refreshing.",
       "Engineered a dynamic hotspots management page, building React frontend interfaces and Python backend endpoints to query, retrieve, and display location data from a MongoDB database.",
+      "Engineered data-filtering logic in an Apache Flink streaming pipeline using Java, routing events from MongoDB to PostgreSQL to resolve critical data contamination.", 
+      "Authored Flyway SQL migrations to simulate and debug distributed ETL database environments",
     ],
   },
   {
@@ -23,9 +25,7 @@ export const EXPERIENCE = [
       "Engineered a C++ device driver from scratch for the Juno laser power meter, integrating with COM object APIs for real-time data acquisition.",
       "Led integration of the driver into existing company software, authoring encapsulated C++ controller classes and new API calls to allow the calibration algorithm to modify projector currents.",
       "Implemented a numerical algorithm using OpenCV and linear algebra to calculate optimal laser currents from power meter readings.",
-      "Built the complete user interface for the calibration stage and driver controls using QML.",
-      "Engineered data-filtering logic in an Apache Flink streaming pipeline using Java, routing events from MongoDB to PostgreSQL to resolve critical data contamination.", 
-      "Authored Flyway SQL migrations to simulate and debug distributed ETL database environments",
+      "Built the complete user interface for the calibration stage and driver controls using QML."
     ],
   },
   {
