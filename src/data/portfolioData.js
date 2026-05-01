@@ -70,6 +70,6 @@ export const PROJECTS = [
 
 export const SKILLS = {
   Languages: ["C++", "C", "Go", "Python", "JavaScript", "Assembly", "QML", "HTML/CSS", "Perl", "R"],
-  "Frameworks & Libraries": ["React", "Django", "Flask", "TensorFlow", "OpenCV", "Bootstrap", "Jinja2"],
-  "Developer Tools": ["Git", "Linux", "Bash", "MongoDB", "Bazel", "Docker", "AWS", "Gunicorn", "Render", "Figma", "LaTeX"],
+  "Frameworks & Libraries": ["React", "PyTorch", "TensorFlow", "Django", "Flask", "HuggingFace", "OpenCV", "Bootstrap", "Jinja2"],
+  "Developer Tools": ["Git", "Linux", "Bash", "MongoDB", "Bazel", "Docker", "AWS", "gRPC", "Protobufs", "Gunicorn", "Render", "Figma", "LaTeX"],
 };
