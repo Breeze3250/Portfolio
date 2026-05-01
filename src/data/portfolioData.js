@@ -46,7 +46,7 @@ export const PROJECTS = [
     name: "CRISPR Guide RNA Efficiency Prediction",
     period: "April 2026",
     description:
-      "Fine-tuned the 500M-parameter Nucleotide Transformer (genomic language model) on the DeepHF benchmark to predict CRISPR-Cas9 cutting efficiency from raw guide RNA sequence. Achieved test Spearman 0.861, statistically matching the published DeepHF model that uses sequence plus 1,031 hand-engineered biological features. Performed interpretability analyses including in-silico mutagenesis, per-position nucleotide preferences, and GC content effects, showing the model independently recovered known biological determinants of cleavage efficiency.",
+      "Fine-tuned the 500M-parameter Nucleotide Transformer (genomic language model) on the DeepHF benchmark to predict CRISPR-Cas9 cutting efficiency from raw guide RNA sequence.",
     tech: ["Python", "PyTorch", "Nucleotide Transformer", "HuggingFace", "CRISPR-Cas9"],
     link: "https://github.com/Breeze3250/Crispr-RNA-Project",
   },
